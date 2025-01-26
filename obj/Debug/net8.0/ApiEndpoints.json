@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DJPortfolio.Controllers.ContentController",
+    "Method": "GetContent",
+    "RelativePath": "api/Content/data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

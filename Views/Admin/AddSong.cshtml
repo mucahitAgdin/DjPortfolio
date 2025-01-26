@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Şarkı Yükle</h1>
+
+<form asp-action="UploadSong" asp-controller="Admin" method="post" enctype="multipart/form-data">
+    <label for="songTitle">Şarkı Adı:</label>
+    <input type="text" id="songTitle" name="songTitle" required>
+
+    <label for="songFile">Şarkı Dosyası:</label>
+    <input type="file" id="songFile" name="songFile" accept="audio/*" required>
+
+    <button type="submit">Yükle</button>
+</form>

@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Şarkıları Yönet</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Şarkı Adı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var song in Model) // Şarkı listesi gönderilecek
+        {
+            <tr>
+                <td>@song.Id</td>
+                <td>@song.Title</td>
+                <td>
+                    <form asp-action="DeleteSong" asp-controller="Admin" method="post">
+                        <input type="hidden" name="id" value="@song.Id">
+                        <button type="submit">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
