@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\data\\content.json"
     },
     {
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\images.json",
+      "PackagePath": "staticwebassets\\data\\images.json"
+    },
+    {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -295,10 +299,6 @@
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\media\\song5.mp3",
       "PackagePath": "staticwebassets\\media\\song5.mp3"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\media\\song6.mp3",
-      "PackagePath": "staticwebassets\\media\\song6.mp3"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BRG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

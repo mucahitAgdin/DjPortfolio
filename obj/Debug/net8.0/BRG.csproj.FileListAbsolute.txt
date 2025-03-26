@@ -32,3 +32,4 @@ C:\Users\agdin\Desktop\BRG\obj\Debug\net8.0\refint\BRG.dll
 C:\Users\agdin\Desktop\BRG\obj\Debug\net8.0\BRG.pdb
 C:\Users\agdin\Desktop\BRG\obj\Debug\net8.0\BRG.genruntimeconfig.cache
 C:\Users\agdin\Desktop\BRG\obj\Debug\net8.0\ref\BRG.dll
+C:\Users\agdin\Desktop\BRG\obj\Debug\net8.0\BRG.sourcelink.json

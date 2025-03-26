@@ -1,0 +1,30 @@
+{
+  "Logo": null,
+  "songs": [
+    {
+      "Id": 1,
+      "Title": "Song 1",
+      "path": "/media/song1.mp3"
+    },
+    {
+      "Id": 2,
+      "Title": "Song 2",
+      "path": "/media/song2.mp3"
+    },
+    {
+      "Id": 3,
+      "Title": "Song 3",
+      "path": "/media/song3.mp3"
+    },
+    {
+      "Id": 4,
+      "Title": "Song 4",
+      "path": "/media/song4.mp3"
+    },
+    {
+      "Id": 5,
+      "Title": "Song 5",
+      "path": "/media/song5.mp3"
+    }
+  ]
+}
