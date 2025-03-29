@@ -4,10 +4,6 @@ wwwroot\data\images.json
 wwwroot\favicon.ico
 wwwroot\images\pixel.gif
 wwwroot\images\pixel2.gif
-wwwroot\images\pixel3.gif
-wwwroot\images\pixel4.gif
-wwwroot\images\pixel5.gif
-wwwroot\images\pixel6.gif
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

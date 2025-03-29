@@ -29,22 +29,6 @@
       "PackagePath": "staticwebassets\\images\\pixel2.gif"
     },
     {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel3.gif",
-      "PackagePath": "staticwebassets\\images\\pixel3.gif"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel4.gif",
-      "PackagePath": "staticwebassets\\images\\pixel4.gif"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel5.gif",
-      "PackagePath": "staticwebassets\\images\\pixel5.gif"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel6.gif",
-      "PackagePath": "staticwebassets\\images\\pixel6.gif"
-    },
-    {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

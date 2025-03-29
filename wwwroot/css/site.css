@@ -79,23 +79,26 @@ footer {
     justify-content: center;
     align-items: center;
     color: white;
+    background-color:rgba(0,0,0,0.6);
     z-index: 1000;
 }
 
-/* Müzik Kontrolleri */
 .music-controls {
     position: absolute;
-    bottom: 20px;
+    bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
-    gap: 30px;
+    align-items: center;
+    gap: 15px;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
 
     .music-controls button {
         background: none;
         border: none;
-        color: #000000;
+        color: white;
         font-size: 24px;
         cursor: pointer;
     }
@@ -103,6 +106,18 @@ footer {
         .music-controls button:hover {
             color: #1db954; /* Spotify yeşili */
         }
+
+/* Zaman göstergesinin stilini ayarla */
+.time-bar {
+    font-size: 15px;
+    color: white;
+    bottom:5px;
+    font-family: 'Arial', sans-serif;
+    min-width: 50px; /* Rakamların kaymasını önler */
+    text-align: center;
+}
+
+
 
 /* Sosyal Medya İkonları */
 .social-media {
@@ -160,6 +175,12 @@ footer {
         bottom: auto;
         top: 10px;
         left: 10px;
+        transform: none;
+    }
+    .time-bar {
+        bottom: auto;
+        top: 10px;
+        right:15px;
         transform: none;
     }
 

@@ -22,7 +22,7 @@ namespace YourProject.Controllers
         [HttpPost]
         public IActionResult Login(string username, string password)
         {
-            if (username == "admin" && password == "123") // Sabit kullanıcı bilgisi
+            if (username == "hangezmis" && password == "d4e2ll4sc16") // Sabit kullanıcı bilgisi
             {
                 HttpContext.Session.SetString("AdminLoggedIn", "true");
                 return RedirectToAction("Index");

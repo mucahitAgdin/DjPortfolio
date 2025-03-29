@@ -21,28 +21,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj1.jpg",
-      "PackagePath": "staticwebassets\\images\\dj1.jpg"
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel.gif",
+      "PackagePath": "staticwebassets\\images\\pixel.gif"
     },
     {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj2.jpg",
-      "PackagePath": "staticwebassets\\images\\dj2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj3.jpg",
-      "PackagePath": "staticwebassets\\images\\dj3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj4.jpg",
-      "PackagePath": "staticwebassets\\images\\dj4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj5.jpg",
-      "PackagePath": "staticwebassets\\images\\dj5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\dj6.jpg",
-      "PackagePath": "staticwebassets\\images\\dj6.jpg"
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel2.gif",
+      "PackagePath": "staticwebassets\\images\\pixel2.gif"
     },
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",

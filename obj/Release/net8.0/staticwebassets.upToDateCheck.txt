@@ -2,12 +2,8 @@ wwwroot\css\site.css
 wwwroot\data\content.json
 wwwroot\data\images.json
 wwwroot\favicon.ico
-wwwroot\images\dj1.jpg
-wwwroot\images\dj2.jpg
-wwwroot\images\dj3.jpg
-wwwroot\images\dj4.jpg
-wwwroot\images\dj5.jpg
-wwwroot\images\dj6.jpg
+wwwroot\images\pixel.gif
+wwwroot\images\pixel2.gif
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
