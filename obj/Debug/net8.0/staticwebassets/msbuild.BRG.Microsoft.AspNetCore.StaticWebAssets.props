@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m3v2hqwa5a</Fingerprint>
-      <Integrity>Dh1YFTRDtDLYLh0K6jbvj8SP878sZdMMmfiutqbnVLw=</Integrity>
+      <Fingerprint>zvt5otre4f</Fingerprint>
+      <Integrity>cf3RhdhOtmb5dKY1yG7xO8jMLGm1phfvsqpG1lby7zA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ssqw257gyg</Fingerprint>
-      <Integrity>rDXvS6j3gAgzxUboj+6cTMok+eIzTbrFPt5XPiLLDug=</Integrity>
+      <Fingerprint>fv2gd56cvy</Fingerprint>
+      <Integrity>dcz14KYdGWawOXik7eK1nPF55+3y/2riU8NVZKsMGxo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\images.json'))</OriginalItemSpec>
@@ -90,113 +90,113 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj1.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj1.jpg</RelativePath>
+      <RelativePath>images/pixel.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3dajo3jinv</Fingerprint>
-      <Integrity>yZC5yfuLJNPZlohZuqniiN8VxeSL/Ik6qsF45nnALOw=</Integrity>
+      <Fingerprint>plsn1hh0a5</Fingerprint>
+      <Integrity>jYVNRRbtxPZZ8K/4rWsDqZgVIZ8w+Jb6I73dt0wFeOQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj1.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel.gif'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj2.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel2.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj2.jpg</RelativePath>
+      <RelativePath>images/pixel2.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gxrcjdm0at</Fingerprint>
-      <Integrity>ZL+znH4hfVctG+CgJc8LKQ40Bvwv/P3UDwqR2pJkpN4=</Integrity>
+      <Fingerprint>kdhg7b7fcc</Fingerprint>
+      <Integrity>+F4/XEwCIEwkg7Oy7INjgZM0kiRvDzh/KhBcLV2zMXg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj2.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel2.gif'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj3.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel3.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj3.jpg</RelativePath>
+      <RelativePath>images/pixel3.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2sxs0oi1wz</Fingerprint>
-      <Integrity>/qVySIs3fjT8PC2auzcjTJOAeb0X87rzjkZy3t7m7hE=</Integrity>
+      <Fingerprint>r6retgk0wk</Fingerprint>
+      <Integrity>3cHGtY+8xuqnyI9PpYaguuLmZnAKtCUQ/0WfZXV/yYg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj3.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel3.gif'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj4.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel4.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj4.jpg</RelativePath>
+      <RelativePath>images/pixel4.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fp64qc39zq</Fingerprint>
-      <Integrity>DYtKgWyc2Ref/RjdPqyoEFFsojB+u3Kyo6Yyg2zkXIM=</Integrity>
+      <Fingerprint>vmgsza7epy</Fingerprint>
+      <Integrity>yWF+Zs0g7Pa3dMCaXf1HKMxyPlmimR7LwbhfwRAwDn8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj4.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel4.gif'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj5.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel5.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj5.jpg</RelativePath>
+      <RelativePath>images/pixel5.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wgmazocwyi</Fingerprint>
-      <Integrity>QLNOXje94eNq3cYNqo4YoLUC9qzDh5VAcZZnMi+lpzI=</Integrity>
+      <Fingerprint>bu2rjzqyod</Fingerprint>
+      <Integrity>I8YWEfSRpMgA8cfLWeXMDaFJ1tNUY1+/DK0CRojIIfc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj5.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel5.gif'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj6.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel6.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>BRG</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BRG</BasePath>
-      <RelativePath>images/dj6.jpg</RelativePath>
+      <RelativePath>images/pixel6.gif</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>76dag4nfdp</Fingerprint>
-      <Integrity>LzGNlzgAA3UWj4m36XLLBFy5it4Yh+emxBFv3xr/IzU=</Integrity>
+      <Fingerprint>w0e87v9amg</Fingerprint>
+      <Integrity>AEzvBEaE6YwL6R2u/yB4SSlG867SE1hkBOr1zUwFa+4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dj6.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pixel6.gif'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i343azkf8f</Fingerprint>
-      <Integrity>fu0Nf5fjf9F/mGYuRcygciab2JgWGQpqMJvkpt6Vcwc=</Integrity>
+      <Fingerprint>yyeqsjnx3g</Fingerprint>
+      <Integrity>trmx6LIw2ijY7ip5wON2PnpRfrSxAiui48bHhneX9W0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>

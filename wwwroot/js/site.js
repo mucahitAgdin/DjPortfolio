@@ -52,15 +52,28 @@
 
 
 fetch('/data/images.json')
-    .then((response) => response.json())
-    .then((data) => {
-        const container = document.getElementById('image-container');
+    .then(response => response.json())
+    .then(data => {
+        const gifContainer = document.getElementById('gif-container');
+        if (!gifContainer) {
+            console.error("HATA: 'gif-container' ID'li div bulunamadı!");
+            return;
+        }
 
-        data.images.forEach((image) => {
-            const imgElement = document.createElement('img');
-            imgElement.src = image.src;
-            imgElement.alt = image.alt;
-            container.appendChild(imgElement);
-        });
+        // Tüm GIF'leri tek seferde HTML içine ekleyelim
+        gifContainer.innerHTML = data.gifs.map((gifSrc, index) =>
+            `<img src="${gifSrc}" class="gif-image ${index === 0 ? 'active' : ''}" />`
+        ).join('');
+
+        const gifElements = document.querySelectorAll('.gif-image');
+        let currentIndex = 0;
+
+        function changeGif() {
+            gifElements[currentIndex].classList.remove("active");
+            currentIndex = (currentIndex + 1) % gifElements.length;
+            gifElements[currentIndex].classList.add("active");
+        }
+
+        setInterval(changeGif, 8000);
     })
-    .catch((error) => console.error('Error fetching images:', error));
+    .catch(error => console.error('Error fetching gifs:', error));

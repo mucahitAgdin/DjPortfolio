@@ -2,22 +2,33 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    overflow-x: hidden; /* Yatay kaydırmayı engelle */
+    overflow: hidden; /* Kaydırmayı tamamen kapat */
 }
 
-/* Görseller */
-#image-container {
-    position: relative;
+/* gif container*/
+#gif-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.gif-image {
     width: 100%;
-    height: 100vh; /* Tüm ekran yüksekliğini kaplar */
-    overflow-y: auto; /* Dikey kaydırmayı aktif et */
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
 }
 
-    #image-container img {
-        width: 100%; /* Genişlik tam ekran */
-        height: 100vh; /* Görsel yüksekliği tam ekran */
-        object-fit: cover; /* Görsellerin oranını korur */
+    .gif-image.active {
+        opacity: 1;
     }
+
 
 /* Header */
 header {
@@ -30,14 +41,15 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
-    background: rgb(255, 255, 255, 0.20); /* Transparan arka plan */
+     /* Transparan arka plan */
     color: white;
-    z-index: 1000; /* Üstte kalması için yüksek z-index */
+    z-index: 1000;
 }
 
     header .Logo img {
-        max-width: 80px; /* Logonun genişliği */
-        height: auto; /* Oran koruma */
+        max-width: 125px;
+        height: auto;
+        
     }
 
 nav {
@@ -53,7 +65,7 @@ nav {
     }
 
         nav a:hover {
-            text-decoration: underline; /* Hover efekti */
+            text-decoration: underline;
         }
 
 /* Footer */
@@ -63,29 +75,28 @@ footer {
     left: 0;
     width: 100%;
     height: 70px;
-    background: rgb(255, 255, 255, 0.20); /* Transparan arka plan */
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
-    z-index: 1000; /* Üstte kalması için yüksek z-index */
+    z-index: 1000;
 }
 
 /* Müzik Kontrolleri */
 .music-controls {
     position: absolute;
-    bottom: 10px;
+    bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
-    gap: 15px; /* Butonlar arası mesafe */
+    gap: 30px;
 }
 
     .music-controls button {
         background: none;
         border: none;
-        color: #fff;
-        font-size: 24px; /* Daha büyük buton boyutu */
+        color: #000000;
+        font-size: 24px;
         cursor: pointer;
     }
 
@@ -97,29 +108,29 @@ footer {
 .social-media {
     position: absolute;
     bottom: 10px;
-    right: 10px; /* Sağ tarafa hizalandı */
+    right: 10px;
     display: flex;
-    gap: 15px; /* İkonlar arası boşluk */
+    gap: 15px;
 }
 
     .social-media a {
-        color: #fff; /* Varsayılan renk beyaz */
-        font-size: 24px; /* Daha büyük ikonlar */
+        color: #fff;
+        font-size: 24px;
         text-decoration: none;
-        transition: color 0.3s ease; /* Yumuşak geçiş efekti */
+        transition: color 0.3s ease;
     }
 
-        /* Hover efektleri */
-        .social-media a.instagram:hover {
-            color: #e1306c; /* Instagram'ın logo rengi */
+        /* Hover efekti sadece Spotify için */
+        .social-media a.spotify:hover {
+            color: #1db954; /* Spotify'ın yeşili */
         }
 
-        .social-media a.twitter:hover {
-            color: #1da1f2; /* Twitter'ın mavi rengi */
+        .social-media a.instagram:hover {
+            color: #e1306c;
         }
 
         .social-media a.mail:hover {
-            color: #d93025; /* Gmail'in kırmızı rengi */
+            color: #d93025;
         }
 
 /* Responsive Tasarım */
@@ -156,9 +167,5 @@ footer {
         bottom: auto;
         top: 10px;
         right: 10px;
-    }
-
-    #image-container img {
-        height: auto;
     }
 }

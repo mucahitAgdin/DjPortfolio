@@ -1,28 +1,7 @@
 {
-  "images": [
-    {
-      "src": "/images/dj1.jpg",
-      "alt": "DJ 1"
-    },
-    {
-      "src": "/images/dj2.jpg",
-      "alt": "DJ 2"
-    },
-    {
-      "src": "/images/dj3.jpg",
-      "alt": "DJ 3"
-    },
-    {
-      "src": "/images/dj4.jpg",
-      "alt": "DJ 4"
-    },
-    {
-      "src": "/images/dj5.jpg",
-      "alt": "DJ 5"
-    },
-    {
-      "src": "/images/dj6.jpg",
-      "alt": "DJ 6"
-    }
+  "gifs": [
+    "/images/pixel.gif",
+    "/images/pixel2.gif",
+    "/images/pixel3.gif"
   ]
 }
