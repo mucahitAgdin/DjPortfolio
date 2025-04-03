@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\data\\content.json"
     },
     {
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+      "PackagePath": "staticwebassets\\data\\events.json"
+    },
+    {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\images.json",
       "PackagePath": "staticwebassets\\data\\images.json"
     },
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
+      "PackagePath": "staticwebassets\\images\\Sorular.docx"
     },
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel.gif",
