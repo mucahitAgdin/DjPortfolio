@@ -5,7 +5,7 @@ body {
     overflow: hidden; /* Kaydırmayı tamamen kapat */
 }
 
-/* gif container*/
+/* GIF Container */
 #gif-container {
     position: fixed;
     top: 0;
@@ -154,7 +154,9 @@ footer {
         flex-direction: column;
         height: auto;
         padding: 10px;
+
     }
+
 
     nav {
         flex-direction: column;
@@ -188,5 +190,64 @@ footer {
         bottom: auto;
         top: 10px;
         right: 10px;
+    }
+}
+
+
+/* Sidebar sabit sağda */
+#event-sidebar {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 250px;
+    height: 300px; /* Boyut sabit */
+    background: transparent;
+    color: white;
+    padding: 15px;
+    border-radius: 10px 0 0 10px;
+    text-align: center;
+    overflow: hidden;
+    z-index: 9999;
+}
+
+    /* Sidebar başlığı */
+    #event-sidebar h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+/* Etkinlik listesi için animasyon */
+#events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    animation: scrollEvents 15s linear infinite;
+}
+
+/* Tek tek etkinlikler */
+.event-item {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Sürekli yukarı kaydırma efekti */
+@keyframes scrollEvents {
+    0% {
+        transform: translateY(100%);
+    }
+
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
+/* Mobil için sidebar biraz küçülsün */
+@media (max-width: 768px) {
+    #event-sidebar {
+        width: 200px;
+        height: 250px;
     }
 }

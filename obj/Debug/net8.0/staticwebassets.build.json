@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZlZ5H2gU90J7mKixEH7aR520sR8M93xCpq8PWFZTOw0=",
+  "Hash": "wa2EsEM4Zt80Vs4NmiLr9DxM3ac1ZQucSqaJLYlGFbY=",
   "Source": "BRG",
   "BasePath": "_content/BRG",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yatfyhy1dh",
-      "Integrity": "GuiW8OM+8GdNDZTbRlhFbGdhtx6nPFc6GqtNg5auL8M=",
+      "Fingerprint": "hf6qop2bwc",
+      "Integrity": "DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\content.json"
+    },
+    {
+      "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+      "SourceId": "BRG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\",
+      "BasePath": "_content/BRG",
+      "RelativePath": "data/events#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pp0lsftptr",
+      "Integrity": "3T7uiASYeXpkJ4IGKI2eit6kf1zG+/oovYcm2YfkUrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\events.json"
     },
     {
       "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\images.json",
@@ -185,6 +206,27 @@
       "OriginalItemSpec": "wwwroot\\images\\pixel2.gif"
     },
     {
+      "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
+      "SourceId": "BRG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\",
+      "BasePath": "_content/BRG",
+      "RelativePath": "images/Sorular#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hc3h1zxj0",
+      "Integrity": "5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Sorular.docx"
+    },
+    {
       "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
       "SourceId": "BRG",
       "SourceType": "Discovered",
@@ -199,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "940cx5ifq8",
-      "Integrity": "Z5+V4MlgeWbf/dOAWPkmSAD0SB7S1BBm0ykR6R9Fd0k=",
+      "Fingerprint": "cgwo43otr9",
+      "Integrity": "TOqt0m7zz6ommuNnxApF8rpXSd1lLuvMJDZWMMVn++o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1705,7 +1747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3470"
+          "Value": "4791"
         },
         {
           "Name": "Content-Type",
@@ -1713,11 +1755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GuiW8OM+8GdNDZTbRlhFbGdhtx6nPFc6GqtNg5auL8M=\""
+          "Value": "\"DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 21:44:08 GMT"
+          "Value": "Thu, 03 Apr 2025 21:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1727,12 +1769,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GuiW8OM+8GdNDZTbRlhFbGdhtx6nPFc6GqtNg5auL8M="
+          "Value": "sha256-DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I="
         }
       ]
     },
     {
-      "Route": "css/site.yatfyhy1dh.css",
+      "Route": "css/site.hf6qop2bwc.css",
       "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1742,7 +1784,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3470"
+          "Value": "4791"
         },
         {
           "Name": "Content-Type",
@@ -1750,11 +1792,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GuiW8OM+8GdNDZTbRlhFbGdhtx6nPFc6GqtNg5auL8M=\""
+          "Value": "\"DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 21:44:08 GMT"
+          "Value": "Thu, 03 Apr 2025 21:24:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1764,7 +1806,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yatfyhy1dh"
+          "Value": "hf6qop2bwc"
         },
         {
           "Name": "label",
@@ -1772,7 +1814,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GuiW8OM+8GdNDZTbRlhFbGdhtx6nPFc6GqtNg5auL8M="
+          "Value": "sha256-DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I="
         }
       ]
     },
@@ -1855,6 +1897,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-dhSzvJOpnhrmumvmivRdE8cy7oYMwchGzXG2gTXb8UM="
+        }
+      ]
+    },
+    {
+      "Route": "data/events.json",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3T7uiASYeXpkJ4IGKI2eit6kf1zG+/oovYcm2YfkUrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:17:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3T7uiASYeXpkJ4IGKI2eit6kf1zG+/oovYcm2YfkUrY="
+        }
+      ]
+    },
+    {
+      "Route": "data/events.pp0lsftptr.json",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3T7uiASYeXpkJ4IGKI2eit6kf1zG+/oovYcm2YfkUrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:17:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pp0lsftptr"
+        },
+        {
+          "Name": "label",
+          "Value": "data/events.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3T7uiASYeXpkJ4IGKI2eit6kf1zG+/oovYcm2YfkUrY="
         }
       ]
     },
@@ -2187,8 +2311,8 @@
       ]
     },
     {
-      "Route": "js/site.940cx5ifq8.js",
-      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
+      "Route": "images/Sorular.3hc3h1zxj0.docx",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2197,19 +2321,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3834"
+          "Value": "1733984"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         },
         {
           "Name": "ETag",
-          "Value": "\"Z5+V4MlgeWbf/dOAWPkmSAD0SB7S1BBm0ykR6R9Fd0k=\""
+          "Value": "\"5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 21:43:24 GMT"
+          "Value": "Wed, 02 Apr 2025 21:47:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2219,7 +2343,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "940cx5ifq8"
+          "Value": "3hc3h1zxj0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Sorular.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sorular.docx",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 21:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.cgwo43otr9.js",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOqt0m7zz6ommuNnxApF8rpXSd1lLuvMJDZWMMVn++o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgwo43otr9"
         },
         {
           "Name": "label",
@@ -2227,7 +2433,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z5+V4MlgeWbf/dOAWPkmSAD0SB7S1BBm0ykR6R9Fd0k="
+          "Value": "sha256-TOqt0m7zz6ommuNnxApF8rpXSd1lLuvMJDZWMMVn++o="
         }
       ]
     },
@@ -2242,7 +2448,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3834"
+          "Value": "4727"
         },
         {
           "Name": "Content-Type",
@@ -2250,11 +2456,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z5+V4MlgeWbf/dOAWPkmSAD0SB7S1BBm0ykR6R9Fd0k=\""
+          "Value": "\"TOqt0m7zz6ommuNnxApF8rpXSd1lLuvMJDZWMMVn++o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 21:43:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:24:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2264,7 +2470,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z5+V4MlgeWbf/dOAWPkmSAD0SB7S1BBm0ykR6R9Fd0k="
+          "Value": "sha256-TOqt0m7zz6ommuNnxApF8rpXSd1lLuvMJDZWMMVn++o="
         }
       ]
     },

@@ -1,9 +1,11 @@
 wwwroot\css\site.css
 wwwroot\data\content.json
+wwwroot\data\events.json
 wwwroot\data\images.json
 wwwroot\favicon.ico
 wwwroot\images\pixel.gif
 wwwroot\images\pixel2.gif
+wwwroot\images\Sorular.docx
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
