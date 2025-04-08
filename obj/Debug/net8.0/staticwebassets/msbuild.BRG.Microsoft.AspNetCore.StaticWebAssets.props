@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ag4l4trrd6</Fingerprint>
-      <Integrity>Nm5ZZpv64gncKqdy+E6wUZX9awPKc6hbKpgUys3HVPo=</Integrity>
+      <Fingerprint>whpge76mdu</Fingerprint>
+      <Integrity>FA82Zshyma4ZtVj8GO93TvYp5DaxmvceenlEObA0gQQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\events.json'))</OriginalItemSpec>

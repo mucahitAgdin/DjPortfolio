@@ -243,7 +243,7 @@ footer {
     flex-direction: column;
     gap: 10px;
     position: relative;
-    animation: scrollEvents 15s linear infinite;
+    animation: scrollEvents 20s linear infinite;
 }
 
 /* Tek tek etkinlikler */
