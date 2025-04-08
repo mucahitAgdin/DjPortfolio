@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\agdin\Desktop\BRG\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-03-29T22:20:09.4385315Z||;True|2025-03-30T00:59:32.0861648+03:00||;True|2025-02-25T23:46:19.2770126+03:00||;</History>
+    <History>True|2025-04-08T23:56:18.9102114Z||;True|2025-04-09T02:14:33.5728745+03:00||;True|2025-03-30T01:20:09.4385315+03:00||;True|2025-03-30T00:59:32.0861648+03:00||;True|2025-02-25T23:46:19.2770126+03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

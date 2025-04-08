@@ -1,5 +1,7 @@
+wwwroot\css\admin.css
 wwwroot\css\site.css
 wwwroot\data\content.json
+wwwroot\data\events.json
 wwwroot\data\images.json
 wwwroot\favicon.ico
 wwwroot\images\pixel.gif

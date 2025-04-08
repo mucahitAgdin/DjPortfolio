@@ -5,7 +5,7 @@ body {
     overflow: hidden; /* Kaydırmayı tamamen kapat */
 }
 
-/* gif container*/
+/* GIF Container */
 #gif-container {
     position: fixed;
     top: 0;
@@ -81,7 +81,9 @@ footer {
     color: white;
     background-color:rgba(0,0,0,0.6);
     z-index: 1000;
+
 }
+
 
 .music-controls {
     position: absolute;
@@ -148,13 +150,27 @@ footer {
             color: #d93025;
         }
 
+
+/* Copyright */
+.copyright {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+    opacity: 0.7;
+    z-index: 1001;
+}
+
 /* Responsive Tasarım */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
         height: auto;
         padding: 10px;
+
     }
+
 
     nav {
         flex-direction: column;
@@ -168,13 +184,14 @@ footer {
     footer {
         flex-direction: column;
         height: auto;
-        padding: 30px;
+        padding: 25px;
     }
+
 
     .music-controls {
         bottom: auto;
         top: 10px;
-        left: 10px;
+        left: 60px;
         transform: none;
     }
     .time-bar {
@@ -186,7 +203,77 @@ footer {
 
     .social-media {
         bottom: auto;
-        top: 10px;
+        top: 55px;
         right: 10px;
     }
+
+    .copyright {
+        position: relative;
+        bottom: -30px;
+        left: -150px;
+        order: 5;
+        margin-top: 10px;
+        text-align: center;
+        width: 100%;
+    }
 }
+
+
+/* Sidebar sabit sağda */
+#event-sidebar {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 250px;
+    height: 300px; /* Boyut sabit */
+    background: transparent;
+    color: white;
+    padding: 15px;
+    border-radius: 10px 0 0 10px;
+    text-align: center;
+    overflow: hidden;
+    z-index: 9999;
+}
+
+    /* Sidebar başlığı */
+    #event-sidebar h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+/* Etkinlik listesi için animasyon */
+#events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    animation: scrollEvents 20s linear infinite;
+}
+
+/* Tek tek etkinlikler */
+.event-item {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Sürekli yukarı kaydırma efekti */
+@keyframes scrollEvents {
+    0% {
+        transform: translateY(100%);
+    }
+
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
+/* Mobil için sidebar biraz küçülsün */
+@media (max-width: 768px) {
+    #event-sidebar {
+        width: 200px;
+        height: 250px;
+    }
+}
+

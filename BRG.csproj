@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\media\brg.png" />
+    <None Include="wwwroot\media\song1.mp3" />
+    <None Include="wwwroot\media\song2.mp3" />
+    <None Include="wwwroot\media\song3.mp3" />
+    <None Include="wwwroot\media\song4.mp3" />
+    <None Include="wwwroot\media\song5.mp3" />
+  </ItemGroup>
+
 </Project>

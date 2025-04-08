@@ -83,14 +83,6 @@ footer {
     z-index: 1000;
 
 }
-.rights {
-    position: fixed;
-    bottom: -14px; /* Sol alt köşeye yakın bir konumda yer alması için */
-    left: 10px; /* Sol kenara yapıştır */
-    font-size: 9px; /* Font boyutunu ayarlayabilirsin */
-    color: #fff; /* Yazı rengini beyaz yap */
-    padding: 5px 10px; /* Yazının etrafında biraz boşluk bırak */
-}
 
 
 .music-controls {
@@ -159,8 +151,16 @@ footer {
         }
 
 
-
-
+/* Copyright */
+.copyright {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+    opacity: 0.7;
+    z-index: 1001;
+}
 
 /* Responsive Tasarım */
 @media (max-width: 768px) {
@@ -184,7 +184,7 @@ footer {
     footer {
         flex-direction: column;
         height: auto;
-        padding: 55px;
+        padding: 25px;
     }
 
 
@@ -206,10 +206,15 @@ footer {
         top: 55px;
         right: 10px;
     }
-    
-    .rights {
-        font-size: 9px;
-        bottom: 10px;
+
+    .copyright {
+        position: relative;
+        bottom: -30px;
+        left: -150px;
+        order: 5;
+        margin-top: 10px;
+        text-align: center;
+        width: 100%;
     }
 }
 
@@ -271,3 +276,4 @@ footer {
         height: 250px;
     }
 }
+

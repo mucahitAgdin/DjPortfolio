@@ -103,3 +103,27 @@ fetch('/data/images.json')
         setInterval(changeGif, 15000);
     })
     .catch(error => console.error('Error fetching gifs:', error));
+
+
+// JSON'dan etkinlikleri çekip sidebar'a ekleyelim
+fetch('/data/events.json')
+    .then(response => response.json())
+    .then(events => {
+        const eventList = document.getElementById('events-list');
+        if (!eventList) return;
+
+        // Etkinlikleri listeye ekleyelim
+        eventList.innerHTML = events.map(event => `
+  <div class="event-item">
+    <strong>${event.Title}</strong>
+    <div class="event-date">${event.Date}</div>
+    <p>${event.Description}</p>
+  </div>
+`).join('');
+
+
+        // Sürekli kayan efekti oluşturuyor
+        const cloneEvents = eventList.innerHTML; // Aynı etkinlikleri tekrar oluştur
+        eventList.innerHTML += cloneEvents; // 2 katına çıkart, döngü için
+    })
+    .catch(error => console.error("Etkinlikleri çekerken hata oluştu:", error));
