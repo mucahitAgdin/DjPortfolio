@@ -3,40 +3,33 @@
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Etkinlik Listesi</h1>
+<h2>Etkinlikleri Yönet</h2>
 
-@if (Model != null && Model.Any())
-{
-    <table class="table table-bordered">
-        <thead class="table-dark">
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Başlık</th>
+            <th>Tarih</th>
+            <th>Açıklama</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ev in Model)
+        {
             <tr>
-                <th>#</th>
-                <th>Başlık</th>
-                <th>Tarih</th>
-                <th>Açıklama</th>
-                <th>Sil</th>
+                <td>@ev.Id</td>
+                <td>@ev.Title</td>
+                <td>@ev.Date</td>
+                <td>@ev.Description</td>
+                <td>
+                    <form asp-action="DeleteEvent" method="post">
+                        <input type="hidden" name="id" value="@ev.Id" />
+                        <button type="submit">Sil</button>
+                    </form>
+                </td>
             </tr>
-        </thead>
-        <tbody>
-            @foreach (var ev in Model)
-            {
-                <tr>
-                    <td>@ev.Id</td>
-                    <td>@ev.Title</td>
-                    <td>@ev.Date</td>
-                    <td>@ev.Description</td>
-                    <td>
-                        <form method="post" asp-action="DeleteEvent">
-                            <input type="hidden" name="id" value="@ev.Id" />
-                            <button type="submit" class="btn btn-sm btn-danger">Sil</button>
-                        </form>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
-else
-{
-    <p>Henüz etkinlik eklenmemiş.</p>
-}
+        }
+    </tbody>
+</table>

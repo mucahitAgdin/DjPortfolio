@@ -1,27 +1,111 @@
 ﻿body {
-    background-color: #f8f9fa;
     font-family: 'Segoe UI', sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
 }
 
 header {
-    background-color: #343a40;
+    background-color: #333;
+    color: #fff;
     padding: 1rem;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    text-align: center;
 }
 
-nav a {
-    color: white;
-    margin-left: 1rem;
-    text-decoration: none;
+nav {
+    margin-top: 1rem;
+    text-align: center;
 }
 
-    nav a:hover {
-        text-decoration: underline;
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 0 10px;
+        font-weight: bold;
     }
 
-.card {
-    margin-bottom: 2rem;
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+form {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+label {
+    display: block;
+    margin: 1rem 0 0.5rem;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="file"],
+textarea {
+    width: 100%;
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+.alert {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #d4edda;
+    color: #155724;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 3rem;
+    padding: 1rem;
+    background-color: #111;
+    color: #ccc;
+    text-align: center;
+    font-size: 0.85rem;
+    font-family: 'Segoe UI', sans-serif;
+    border-top: 1px solid #444;
 }

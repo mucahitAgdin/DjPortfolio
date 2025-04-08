@@ -10,12 +10,22 @@
     <header>
         <h1>Admin Panel</h1>
         <nav>
-            <a href="/Admin/Index">Panel</a>
-            <a href="/">Siteye Dön</a>
+            <nav>
+                <a href="/Admin/AddSong">Şarkı Ekle</a>
+                <a href="/Admin/ManageSongs">Şarkıları Yönet</a>
+                <a href="/Admin/AddEvent">Etkinlik Ekle</a>
+                <a href="/Admin/ManageEvents">Etkinlikleri Yönet</a>
+                <a href="/">Siteye Dön</a>
+            </nav>
+
         </nav>
     </header>
     <main>
         @RenderBody()
     </main>
 </body>
+<footer>
+    <p>© 2025 DJ Hangezmiş. All rights reserved. | Made by Mücahit Ağdin</p>
+</footer>
+
 </html>

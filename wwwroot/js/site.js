@@ -114,14 +114,15 @@ fetch('/data/events.json')
 
         // Etkinlikleri listeye ekleyelim
         eventList.innerHTML = events.map(event => `
-            <div class="event-item">
-                <strong>${event.title}</strong>
-                <div class="event-date">${event.date}</div>
-                <p>${event.description}</p>
-            </div>
-        `).join('');
+  <div class="event-item">
+    <strong>${event.Title}</strong>
+    <div class="event-date">${event.Date}</div>
+    <p>${event.Description}</p>
+  </div>
+`).join('');
 
-        // Sürekli kayan efekti oluşturalım
+
+        // Sürekli kayan efekti oluşturuyor
         const cloneEvents = eventList.innerHTML; // Aynı etkinlikleri tekrar oluştur
         eventList.innerHTML += cloneEvents; // 2 katına çıkart, döngü için
     })

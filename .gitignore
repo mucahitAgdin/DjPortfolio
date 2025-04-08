@@ -27,4 +27,4 @@ replay_pid*
 node_modules/dist/build/
 
 #admin
-Controllers/AdminController.cs
+Controllers
