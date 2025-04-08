@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\agdin\\Desktop\\BRG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\manageevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\manageevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\managesongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\managesongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\addsong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\addsong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\data\\events.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -21,30 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\data\\content.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:wwwroot\\data\\content.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\managesongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\managesongs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\admin\\addsong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\admin\\addsong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\wwwroot\\data\\images.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -71,18 +95,6 @@
       "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|c:\\users\\agdin\\desktop\\brg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37589A41-308B-49D2-8010-0ECBE1546735}|BRG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -100,19 +112,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "events.json",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
-              "RelativeDocumentMoniker": "wwwroot\\data\\events.json",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
-              "RelativeToolTip": "wwwroot\\data\\events.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T21:06:19.075Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -135,33 +134,215 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T16:41:36.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAzwHIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-23T16:26:49.132Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T13:40:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T13:42:43.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T16:26:12.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAswOUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:38:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddEvent.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T13:01:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageEvents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageEvents.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageEvents.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageEvents.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T13:00:59.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageSongs.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageSongs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageSongs.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageSongs.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageSongs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T13:41:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T13:45:58.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "wwwroot\\css\\site.css*",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAQwNUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-23T16:26:28.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T12:55:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:09:21.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:30:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-23T16:26:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddSong.cshtml",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddSong.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddSong.cshtml",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddSong.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddSong.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T13:41:01.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "events.json",
+              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+              "RelativeDocumentMoniker": "wwwroot\\data\\events.json",
+              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\events.json",
+              "RelativeToolTip": "wwwroot\\data\\events.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T21:06:19.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -173,20 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:26:12.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "content.json",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\content.json",
               "RelativeDocumentMoniker": "wwwroot\\data\\content.json",
@@ -198,24 +366,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAxwE8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:38:00.751Z"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -227,79 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:40:14.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ManageSongs.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageSongs.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\ManageSongs.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\ManageSongs.cshtml",
-              "RelativeToolTip": "Views\\Admin\\ManageSongs.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:41:32.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:45:58.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddSong.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddSong.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\AddSong.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Admin\\AddSong.cshtml",
-              "RelativeToolTip": "Views\\Admin\\AddSong.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:41:01.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:42:43.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:41:36.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -311,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -323,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "images.json",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\data\\images.json",
               "RelativeDocumentMoniker": "wwwroot\\data\\images.json",
@@ -335,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -347,31 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ContentController.cs",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\ContentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContentController.cs",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\ContentController.cs",
-              "RelativeToolTip": "Controllers\\ContentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:30:24.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\agdin\\Desktop\\BRG\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T17:09:21.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -383,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\agdin\\Desktop\\BRG\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",

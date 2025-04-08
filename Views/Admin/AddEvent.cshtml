@@ -1,0 +1,26 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Etkinlik Ekle</h1>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success">@ViewBag.Message</div>
+}
+
+<form asp-action="AddEvent" asp-controller="Admin" method="post">
+    <div class="mb-3">
+        <label for="title">Etkinlik Başlığı</label>
+        <input type="text" class="form-control" id="title" name="title" required>
+    </div>
+    <div class="mb-3">
+        <label for="date">Tarih</label>
+        <input type="date" class="form-control" id="date" name="date" required>
+    </div>
+    <div class="mb-3">
+        <label for="description">Açıklama</label>
+        <textarea class="form-control" id="description" name="description" rows="4"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>

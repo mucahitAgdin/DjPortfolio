@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wa2EsEM4Zt80Vs4NmiLr9DxM3ac1ZQucSqaJLYlGFbY=",
+  "Hash": "v145q4zo6IdJYAW7OgZdAv8Uu5N+zRSLULQKrXX7JX4=",
   "Source": "BRG",
   "BasePath": "_content/BRG",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\agdin\\Desktop\\BRG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BRG.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+      "SourceId": "BRG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\",
+      "BasePath": "_content/BRG",
+      "RelativePath": "css/admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "98utic98x7",
+      "Integrity": "ty8H4nfemT/Qwge3/+TpC5l9QHRqHCCnPTtsy2RWv4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
       "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
       "SourceId": "BRG",
       "SourceType": "Discovered",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hf6qop2bwc",
-      "Integrity": "DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=",
+      "Fingerprint": "z3wgx3azeg",
+      "Integrity": "cewOdHGpHzW3m2ud27l5R4isy/9BKzZNDI6B9d0zeg4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -204,27 +225,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pixel2.gif"
-    },
-    {
-      "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
-      "SourceId": "BRG",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\",
-      "BasePath": "_content/BRG",
-      "RelativePath": "images/Sorular#[.{fingerprint}]?.docx",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3hc3h1zxj0",
-      "Integrity": "5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Sorular.docx"
     },
     {
       "Identity": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
@@ -1737,6 +1737,88 @@
       ]
     },
     {
+      "Route": "css/admin.98utic98x7.css",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ty8H4nfemT/Qwge3/+TpC5l9QHRqHCCnPTtsy2RWv4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 12:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "98utic98x7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ty8H4nfemT/Qwge3/+TpC5l9QHRqHCCnPTtsy2RWv4M="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ty8H4nfemT/Qwge3/+TpC5l9QHRqHCCnPTtsy2RWv4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 12:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ty8H4nfemT/Qwge3/+TpC5l9QHRqHCCnPTtsy2RWv4M="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1747,7 +1829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4791"
+          "Value": "4758"
         },
         {
           "Name": "Content-Type",
@@ -1755,11 +1837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=\""
+          "Value": "\"cewOdHGpHzW3m2ud27l5R4isy/9BKzZNDI6B9d0zeg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:24:28 GMT"
+          "Value": "Thu, 03 Apr 2025 21:28:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1769,12 +1851,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I="
+          "Value": "sha256-cewOdHGpHzW3m2ud27l5R4isy/9BKzZNDI6B9d0zeg4="
         }
       ]
     },
     {
-      "Route": "css/site.hf6qop2bwc.css",
+      "Route": "css/site.z3wgx3azeg.css",
       "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1784,7 +1866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4791"
+          "Value": "4758"
         },
         {
           "Name": "Content-Type",
@@ -1792,11 +1874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I=\""
+          "Value": "\"cewOdHGpHzW3m2ud27l5R4isy/9BKzZNDI6B9d0zeg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:24:28 GMT"
+          "Value": "Thu, 03 Apr 2025 21:28:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1806,7 +1888,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hf6qop2bwc"
+          "Value": "z3wgx3azeg"
         },
         {
           "Name": "label",
@@ -1814,7 +1896,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DZ/u5o55Em8LzI6d2Ko1E/K1eObglFQnweNxtWpip0I="
+          "Value": "sha256-cewOdHGpHzW3m2ud27l5R4isy/9BKzZNDI6B9d0zeg4="
         }
       ]
     },
@@ -2311,88 +2393,6 @@
       ]
     },
     {
-      "Route": "images/Sorular.3hc3h1zxj0.docx",
-      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1733984"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 21:47:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3hc3h1zxj0"
-        },
-        {
-          "Name": "label",
-          "Value": "images/Sorular.docx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w="
-        }
-      ]
-    },
-    {
-      "Route": "images/Sorular.docx",
-      "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1733984"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 21:47:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5ybp2mYKopkafz8RQ9mMAgfm7rKNDqTgx4HmbkUJc+w="
-        }
-      ]
-    },
-    {
       "Route": "js/site.cgwo43otr9.js",
       "AssetFile": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -2415,7 +2415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:24:26 GMT"
+          "Value": "Thu, 03 Apr 2025 21:24:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2460,7 +2460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:24:26 GMT"
+          "Value": "Thu, 03 Apr 2025 21:24:49 GMT"
         },
         {
           "Name": "Cache-Control",
