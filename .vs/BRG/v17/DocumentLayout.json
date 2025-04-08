@@ -109,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -132,6 +132,10 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "site.js",
@@ -141,8 +145,7 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAGUAAAAAAAAAAAAqwHgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-23T16:26:49.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T16:26:49.132Z"
             },
             {
               "$type": "Document",
@@ -154,8 +157,7 @@
               "RelativeToolTip": "Views\\Admin\\ManageEvents.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T13:00:59.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T13:00:59.646Z"
             },
             {
               "$type": "Document",
@@ -167,8 +169,7 @@
               "RelativeToolTip": "wwwroot\\data\\events.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T14:16:01.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T14:16:01.786Z"
             },
             {
               "$type": "Document",
@@ -184,10 +185,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AdminController.cs",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:38:00.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:38:00.751Z"
             },
             {
               "$type": "Document",
@@ -234,8 +230,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAKsAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-23T16:26:28.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T16:26:28.365Z"
             },
             {
               "$type": "Document",
@@ -259,8 +254,7 @@
               "RelativeToolTip": "Views\\Admin\\ManageSongs.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T13:41:32.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:41:32.94Z"
             },
             {
               "$type": "Document",
