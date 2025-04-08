@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BRG.e6c88k6ne7.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,10 +27,6 @@
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\Sorular.docx",
-      "PackagePath": "staticwebassets\\images\\Sorular.docx"
     },
     {
       "Id": "C:\\Users\\agdin\\Desktop\\BRG\\wwwroot\\images\\pixel.gif",

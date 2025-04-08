@@ -23,5 +23,13 @@
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 #hide AdminController file
 Controllers/AdminController.cs
+=======
+# Belirli bir klasörü yok say
+node_modules/dist/build/
+
+#admin
+Controllers
+>>>>>>> master

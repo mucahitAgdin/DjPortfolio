@@ -1,0 +1,35 @@
+﻿@model List<YourProject.Controllers.AdminController.Event>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Etkinlikleri Yönet</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Başlık</th>
+            <th>Tarih</th>
+            <th>Açıklama</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ev in Model)
+        {
+            <tr>
+                <td>@ev.Id</td>
+                <td>@ev.Title</td>
+                <td>@ev.Date</td>
+                <td>@ev.Description</td>
+                <td>
+                    <form asp-action="DeleteEvent" method="post">
+                        <input type="hidden" name="id" value="@ev.Id" />
+                        <button type="submit">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
